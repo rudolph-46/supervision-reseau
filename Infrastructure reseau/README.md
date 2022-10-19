@@ -4,7 +4,7 @@ Afin d'effectuer les tests et suivre le développement de l'application, nous av
 
 
 ## Topologie du réseau
-![topologie reseaux](/topologie.png "topologie reseaux").
+![topologie reseaux](topologie.png "topologie reseaux").
 
 
 ## Ressources utilisées
